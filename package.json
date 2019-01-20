@@ -1,0 +1,29 @@
+{
+  "name": "boxwithcatbot",
+  "version": "1.0.0",
+  "description": "A simple telegram bot with cats imgs via thecatapi.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k0bato/BoxWithCat-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "thecatapi",
+    "cats"
+  ],
+  "author": "kobato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k0bato/BoxWithCat-bot/issues"
+  },
+  "homepage": "https://github.com/k0bato/BoxWithCat-bot#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "telegram-bot-api": "^1.3.1"
+  }
+}
